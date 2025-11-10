@@ -1,0 +1,21 @@
+{
+  "name": "secureops",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JaysonHauschild/secureops.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/JaysonHauschild/secureops/issues"
+  },
+  "homepage": "https://github.com/JaysonHauschild/secureops#readme"
+}
